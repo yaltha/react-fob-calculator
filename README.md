@@ -1,4 +1,4 @@
-# This project is based on the react tutorial by Brad Traversy https://github.com/bradtraversy/react-crash-2021
+### This project is based on the react tutorial by Brad Traversy https://github.com/bradtraversy/react-crash-2021
 
 I made my own case in this project. I made a react web app that calculate the amount of charge to pay to Indonesian Tax Department if someone, Indonesian, get back to the country and bring goods (Free on Board/FOB).
 
