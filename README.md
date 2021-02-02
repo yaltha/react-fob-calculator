@@ -1,3 +1,12 @@
+# This project is based on the react tutorial by Brad Traversy https://github.com/bradtraversy/react-crash-2021
+
+I made my own case in this project. I made a react web app that calculate the amount of charge to pay to Indonesian Tax Department if someone, Indonesian, get back to the country and bring goods (Free on Board/FOB).
+
+The project covers react hooks ( useState, useEffect, useLocation ), BrowserRouter (Router, Route, Link), Async-await (fetch(API)), json-server, fetch data from server, CRUD, ternary operator, && conditional operator, and higher order array such as map() and filter().
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

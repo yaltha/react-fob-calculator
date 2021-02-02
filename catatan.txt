@@ -1,0 +1,22 @@
+useState
+useEffect
+useLocation
+
+BrowserRouter -> Router, Route, Link
+Async-Await -> fetch
+
+json server
+
+fetch data from server
+create
+read
+update
+delete
+
+conditional:
+-ternary operator
+-use && operator to show components (always true)
+
+Higher order array methods:
+map()
+filter()
